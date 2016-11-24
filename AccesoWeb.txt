@@ -1,0 +1,4 @@
+Ejecutar este comando desde cualqueir parte de la terminal
+para poder acceder desde cualquier red al revidor
+
+lt --port 8081 --subdomain aldohema

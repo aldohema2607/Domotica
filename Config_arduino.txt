@@ -1,0 +1,22 @@
+ñConfiguracion de los pins del Arduino
+
+Primero que nada cargar al arduino el ejemplo que viene en el IDE que esta en Firware
+y deespues selecciona StandarFirware y cargarlo al arduino y despues realizar las sigueintes
+conexiones
+
+Cochera = Pin 13
+Comedor = Pin 12
+Sala = Pin 11
+Cocina Pin 10
+Pasillo = Pin 9
+Dormitorio2 = Pin 8
+Dormitorio1 = Pin 7
+Baño = Pin 6
+Aseo = Pin 5
+
+
+Ir a la carpeta JavaScript y abrir el archivo main.js dentro de el modificar la url
+Si quieres ver la temperatura de manera local:
+Poner la ip de la maquina que se usa de servidor seguida del puerto en el que esta.
+Sise quiere via web se necesita pner la url del dominio en el que esta el tunel,
+comunemnte aldohema.localtunnel.me

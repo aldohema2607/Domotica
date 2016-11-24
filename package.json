@@ -1,0 +1,11 @@
+{
+  "name": "Domotica",
+  "description": "Prender Ventilador via Web",
+  "author": "Aldo Hernandez",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.13.3",
+    "johnny-five": "^0.8.53",
+    "socket.io": "^1.3.3"
+	}
+}
